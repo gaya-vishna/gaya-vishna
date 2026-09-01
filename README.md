@@ -47,7 +47,7 @@ I build tailored software solutions for businesses, taking features from initial
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWV0N3hrZmJxNGdsOXF1d21ldzIzcWs4cjc4MHNqeXcxbTcxM2M1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HWLa2UnmEsc2qpYu8f/giphy.gif" width="120" alt="Pixel Art Coffee & Gaming Cat" />
+      <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWV0N3hrZmJxNGdsOXF1d21ldzIzcWs4cjc4MHNqeXcxbTcxM2M1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HWLa2UnmEsc2qpYu8f/giphy.gif](https://media.tenor.com/qOpeX7zJoLIAAAAi/seal-doodle.gif)" width="120" alt="Pixel Art Coffee & Gaming Cat" />
     </td>
   </tr>
 </table>
