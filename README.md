@@ -35,7 +35,7 @@ I build tailored software solutions for businesses, taking features from initial
 ---
 ### Interests & Creative Hobbies
 
-<img align="right" src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="130" alt="Cute animation" />
+<img align="right" src="[https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif](https://media.tenor.com/qOpeX7zJoLIAAAAi/seal-doodle.gif)" width="130" alt="Cute animation" />
 
 * 🎮 **Gaming:** Cozy sandbox games and competitive team shooters
 * 🧵 **Crafts & Making:** Hand embroidery, plush repairs, and 3D printing
