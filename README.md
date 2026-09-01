@@ -1,51 +1,74 @@
 <div align="center">
 
-# Gaya Vishna
+<!-- Elegant Dynamic SVG Title Banner -->
+<svg width="100%" height="80" viewBox="0 0 700 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="45" text-anchor="middle" font-family="'Didot', 'Playfair Display', 'Georgia', serif" font-size="34" font-style="italic" font-weight="400" fill="#E8D5C4" letter-spacing="3">
+    Gaya Vishna
+  </text>
+  <text x="50%" y="68" text-anchor="middle" font-family="'Helvetica Neue', 'Inter', sans-serif" font-size="11" font-weight="300" fill="#9BA4B5" letter-spacing="4">
+    SOFTWARE SOLUTIONS · FULL STACK ENGINEERING
+  </text>
+</svg>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlnb2NzcXZ6eDUzMDZvNm05MW5mN3BraW1qamhxcTB3eHpuZjloeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMtLKNjb2IVXO/giphy.gif" width="180" alt="Squirtle" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlnb2NzcXZ6eDUzMDZvNm05MW5mN3BraW1qamhxcTB3eHpuZjloeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMtLKNjb2IVXO/giphy.gif" width="160" alt="Squirtle" style="border-radius: 12px; margin: 12px 0;" />
 
-**Full Stack Developer & Software Solutions Freelancer**  
-Building reliable web applications, internal tools, and ERP integrations.
+<p align="center">
+  <font color="#D1D5DB" size="3"><i>Architecting tailored business systems, intuitive web applications, and seamless ERP workflows.</i></font>
+</p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-68BBE3?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaya-vishna)
-[![Email](https://img.shields.io/badge/Email-gaya.vishna%40gmail.com-F3A6B2?style=flat-square&logo=gmail&logoColor=white)](mailto:gaya.vishna@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaya-vishna">
+    <img src="https://img.shields.io/badge/LinkedIn-1B263B?style=for-the-badge&logo=linkedin&logoColor=D1D5DB&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:gaya.vishna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1B263B?style=for-the-badge&logo=gmail&logoColor=D1D5DB&labelColor=0D1117" alt="Email" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### What I Do
+### ✧ What I Do
 
-I build tailored software solutions for businesses, taking features from initial requirements through architecture, deployment, and ongoing support.
+I develop end-to-end custom software solutions for businesses—translating business requirements into structured architecture, reliable deployments, and continuous technical support.
 
-* **Custom Business Software:** Building custom modules on the Frappe framework (v15) with Python, covering project tracking, billing, employee management, and Priority ERP integrations.
-* **Full-Stack Development:** Developing client portals and responsive frontends in TypeScript and React, backed by Node.js and PostgreSQL.
-* **Infrastructure & Tooling:** Containerizing environments with Docker and configuring maintainable deployment pipelines.
+* **Enterprise ERP & Modules:** Engineering customized business apps on the **Frappe framework (v15)** with Python, streamlining billing pipelines, employee management, and **Priority ERP** integrations.
+* **Full-Stack Web Development:** Crafting responsive frontends in **TypeScript & React**, paired with performant backend services in **Node.js** and **PostgreSQL**.
+* **Containerization & CI/CD:** Building clean, reproducible environments using **Docker** and maintainable deployment workflows.
 
 ---
 
-### Core Stack
+### ✧ Core Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,tailwind,nodejs,express,postgres,docker,git,linux,html,css&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
-### Interests & Creative Hobbies
 
-* 🎮 **Gaming:** Cozy sandbox games and competitive team shooters
-* 🧵 **Crafts & Making:** Hand embroidery, plush repairs, and 3D printing
-* 🍙 **Cooking & Anime:** Exploring tasty new recipes and watching series
+### ✧ Creative Pursuits & Life
+
+<img align="right" src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="120" alt="Cute sticker" />
+
+* 🎮 **Gaming:** Cozy sandbox adventures and team shooters
+* 🧵 **Crafts & Design:** Hand embroidery, plush restoration, and 3D modeling
+* 🐶 **Dog Mom:** Spending quality time with my dog, Niki
+* 🍙 **Culinary & Anime:** Experimenting with new recipes and watching series
 
 <br clear="both"/>
 
+---
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=gaya-vishna&show_icons=true&theme=radical&title_color=E8D5C4&icon_color=E8D5C4&text_color=D1D5DB&bg_color=0D1117&border_color=30363D" height="150" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaya-vishna&layout=compact&theme=radical&title_color=E8D5C4&text_color=D1D5DB&bg_color=0D1117&border_color=30363D" height="150" alt="Top Languages" />
+
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaya-vishna&theme=radical&background=0D1117&border=30363D&stroke=68BBE3&ring=F3A6B2&fire=FFAC81&currStreakNum=68BBE3&sideNums=E0E0E0&sideLabels=E0E0E0&dates=888888" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaya-vishna&theme=radical&background=0D1117&border=30363D&stroke=E8D5C4&ring=E8D5C4&fire=E8D5C4&currStreakNum=E8D5C4&sideNums=D1D5DB&sideLabels=9BA4B5&dates=888888" alt="GitHub Streak" />
 
 </div>
