@@ -44,19 +44,15 @@ When I'm taking a break from the screen:
 ---
 
 <div align="center">
+---
 
 ### 📊 GitHub Activity & Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaya-vishna&show_icons=true&theme=radical&title_color=68BBE3&icon_color=F3A6B2&text_color=E0E0E0&bg_color=0D1117&border_color=30363D" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaya-vishna&layout=compact&theme=radical&title_color=68BBE3&text_color=E0E0E0&bg_color=0D1117&border_color=30363D" height="160" alt="Top Languages" />
+</p>
 
-<!-- Stats & Top Languages Cards Side by Side -->
-<img src="https://github-readme-stats.vercel.app/api?username=gaya-vishna&show_icons=true&count_private=true&theme=radical&title_color=68BBE3&icon_color=F3A6B2&text_color=E0E0E0&bg_color=0D1117&border_color=30363D&hide_border=false" height="165" alt="Gaya's GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaya-vishna&layout=compact&theme=radical&title_color=68BBE3&text_color=E0E0E0&bg_color=0D1117&border_color=30363D&hide_border=false" height="165" alt="Gaya's Top Languages" />
-
-<br/><br/>
-
-<!-- Dynamic Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaya-vishna&theme=react-dark&bg_color=0D1117&color=68BBE3&line=F3A6B2&point=BCE3C5&area=true&hide_border=false&border_color=30363D" width="90%" alt="Gaya's Contribution Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaya-vishna&theme=radical&background=0D1117&border=30363D&stroke=68BBE3&ring=F3A6B2&fire=FFAC81&currStreakNum=68BBE3&sideNums=E0E0E0&sideLabels=E0E0E0&dates=888888" alt="GitHub Streak" />
+</p>
