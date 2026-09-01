@@ -2,8 +2,8 @@
 
 # Hi there, I'm Gaya ✨🌸
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlnb2NzcXZ6eDUzMDZvNm05MW5mN3BraW1qamhxcTB3eHpuZjloeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMtLKNjb2IVXO/giphy.gif" width="100" alt="Squirtle Sprite" />
-  
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlnb2NzcXZ6eDUzMDZvNm05MW5mN3BraW1qamhxcTB3eHpuZjloeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMtLKNjb2IVXO/giphy.gif" width="220" alt="Squirtle with Sunglasses" />
+
 ### Full Stack Developer & Software Solutions Architect 💻🎀
 *Turning complex workflows into smooth, reliable, and user-centric systems.*
 
@@ -17,6 +17,7 @@
 </a>
 
 </div>
+
 ---
 
 ### 💼 What I Do & Recent Work
