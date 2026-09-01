@@ -37,7 +37,6 @@ I build tailored software solutions for businesses, taking features from initial
 
 * 🎮 **Gaming:** Cozy sandbox games and competitive team shooters
 * 🧵 **Crafts & Making:** Hand embroidery, plush repairs, and 3D printing
-* 🐶 **Dog Mom:** Spending time and playing with my dog, Niki
 * 🍙 **Cooking & Anime:** Exploring tasty new recipes and watching series
 
 <br clear="both"/>
