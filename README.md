@@ -37,8 +37,6 @@ I build end-to-end software solutions for businesses, handling projects from req
 
 ### Outside the Terminal
 
-<img align="right" src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="125" alt="Pixel sticker" />
-
 * 🎮 **Gaming:** Cozy sandbox adventures and team shooters
 * 🧵 **Crafts & Making:** Hand embroidery, plush restoration, and 3D printing
 * 🐶 **Dog Mom:** Spending quality time with my dog, Niki
