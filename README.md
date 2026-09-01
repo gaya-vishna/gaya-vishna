@@ -2,7 +2,8 @@
 
 # Hi there, I'm Gaya ✨🌸
 
-<div class="tenor-gif-embed" data-postid="14160720095090851679" data-share-method="host" data-aspect-ratio="1.35326" data-width="100%"><a href="https://tenor.com/view/squirtle-squirtle-squad-cool-sunglasses-deal-with-it-gif-14160720095090851679">Squirtle Squirtle Squad GIF</a>from <a href="https://tenor.com/search/squirtle-gifs">Squirtle GIFs</a></div> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlnb2NzcXZ6eDUzMDZvNm05MW5mN3BraW1qamhxcTB3eHpuZjloeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMtLKNjb2IVXO/giphy.gif" width="100" alt="Squirtle Sprite" />
+  
 ### Full Stack Developer & Software Solutions Architect 💻🎀
 *Turning complex workflows into smooth, reliable, and user-centric systems.*
 
