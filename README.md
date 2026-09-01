@@ -34,20 +34,27 @@ I build tailored software solutions for businesses, taking features from initial
 
 ---
 
-### Outside of Work
+### Interests & Creative Hobbies
 
-* Gaming (cozy games and team shooters)
-* Crafts (hand embroidery, plush repair, and 3D printing)
-* Spending time with my dog, Niki
-* Cooking and anime
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <ul>
+        <li>🎮 <b>Gaming:</b> Cozy sandbox games and competitive team shooters</li>
+        <li>🧵 <b>Crafts & Making:</b> Hand embroidery, plush repairs, and 3D printing</li>
+        <li>🐶 <b>Dog Mom:</b> Spending time and playing with my dog, Niki</li>
+        <li>🍙 <b>Cooking & Anime:</b> Exploring tasty new recipes and watching series</li>
+      </ul>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="120" alt="Pixel Art Coffee & Gaming Cat" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gaya-vishna&show_icons=true&theme=radical&title_color=68BBE3&icon_color=F3A6B2&text_color=E0E0E0&bg_color=0D1117&border_color=30363D" height="150" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaya-vishna&layout=compact&theme=radical&title_color=68BBE3&text_color=E0E0E0&bg_color=0D1117&border_color=30363D" height="150" alt="Top Languages" />
 
 <br/><br/>
 
