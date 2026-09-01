@@ -33,25 +33,16 @@ I build tailored software solutions for businesses, taking features from initial
 </p>
 
 ---
-
 ### Interests & Creative Hobbies
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
-      <ul>
-        <li>🎮 <b>Gaming:</b> Cozy sandbox games and competitive team shooters</li>
-        <li>🧵 <b>Crafts & Making:</b> Hand embroidery, plush repairs, and 3D printing</li>
-        <li>🐶 <b>Dog Mom:</b> Spending time and playing with my dog, Niki</li>
-        <li>🍙 <b>Cooking & Anime:</b> Exploring tasty new recipes and watching series</li>
-      </ul>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media.tenor.com/qOpeX7zJoLIAAAAi/seal-doodle.gif" width="120" alt="Pixel Art Coffee & Gaming Cat" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="130" alt="Cute animation" />
 
+* 🎮 **Gaming:** Cozy sandbox games and competitive team shooters
+* 🧵 **Crafts & Making:** Hand embroidery, plush repairs, and 3D printing
+* 🐶 **Dog Mom:** Spending time and playing with my dog, Niki
+* 🍙 **Cooking & Anime:** Exploring tasty new recipes and watching series
+
+<br clear="both"/>
 ---
 
 <div align="center">
