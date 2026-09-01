@@ -2,8 +2,7 @@
 
 # Hi there, I'm Gaya ✨🌸
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/7.gif" width="100" alt="Squirtle Sprite" />
-
+<div class="tenor-gif-embed" data-postid="14160720095090851679" data-share-method="host" data-aspect-ratio="1.35326" data-width="100%"><a href="https://tenor.com/view/squirtle-squirtle-squad-cool-sunglasses-deal-with-it-gif-14160720095090851679">Squirtle Squirtle Squad GIF</a>from <a href="https://tenor.com/search/squirtle-gifs">Squirtle GIFs</a></div> 
 ### Full Stack Developer & Software Solutions Architect 💻🎀
 *Turning complex workflows into smooth, reliable, and user-centric systems.*
 
