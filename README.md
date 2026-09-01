@@ -46,12 +46,9 @@ When I'm taking a break from the screen:
 <div align="center">
 ---
 
-### 📊 GitHub Activity & Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaya-vishna&show_icons=true&theme=radical&title_color=68BBE3&icon_color=F3A6B2&text_color=E0E0E0&bg_color=0D1117&border_color=30363D" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaya-vishna&layout=compact&theme=radical&title_color=68BBE3&text_color=E0E0E0&bg_color=0D1117&border_color=30363D" height="160" alt="Top Languages" />
-</p>
+### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaya-vishna&theme=radical&background=0D1117&border=30363D&stroke=68BBE3&ring=F3A6B2&fire=FFAC81&currStreakNum=68BBE3&sideNums=E0E0E0&sideLabels=E0E0E0&dates=888888" alt="GitHub Streak" />
