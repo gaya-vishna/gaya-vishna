@@ -1,46 +1,33 @@
 <div align="center">
 
-<!-- Elegant Dynamic SVG Title Banner -->
-<svg width="100%" height="80" viewBox="0 0 700 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="45" text-anchor="middle" font-family="'Didot', 'Playfair Display', 'Georgia', serif" font-size="34" font-style="italic" font-weight="400" fill="#E8D5C4" letter-spacing="3">
-    Gaya Vishna
-  </text>
-  <text x="50%" y="68" text-anchor="middle" font-family="'Helvetica Neue', 'Inter', sans-serif" font-size="11" font-weight="300" fill="#9BA4B5" letter-spacing="4">
-    SOFTWARE SOLUTIONS · FULL STACK ENGINEERING
-  </text>
-</svg>
+# Gaya Vishna
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlnb2NzcXZ6eDUzMDZvNm05MW5mN3BraW1qamhxcTB3eHpuZjloeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMtLKNjb2IVXO/giphy.gif" width="160" alt="Squirtle" style="border-radius: 12px; margin: 12px 0;" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlnb2NzcXZ6eDUzMDZvNm05MW5mN3BraW1qamhxcTB3eHpuZjloeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMtLKNjb2IVXO/giphy.gif" width="170" alt="Squirtle with flowers" />
 
-<p align="center">
-  <font color="#D1D5DB" size="3"><i>Architecting tailored business systems, intuitive web applications, and seamless ERP workflows.</i></font>
-</p>
+### Full Stack Developer & Software Solutions Freelancer
+*Building reliable business applications, custom ERP modules, and full-stack tools.*
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gaya-vishna">
-    <img src="https://img.shields.io/badge/LinkedIn-1B263B?style=for-the-badge&logo=linkedin&logoColor=D1D5DB&labelColor=0D1117" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:gaya.vishna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1B263B?style=for-the-badge&logo=gmail&logoColor=D1D5DB&labelColor=0D1117" alt="Email" />
-  </a>
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-68BBE3?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaya-vishna)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-gaya.vishna%40gmail.com-F3A6B2?style=flat-square&logo=gmail&logoColor=white)](mailto:gaya.vishna@gmail.com)
 
 </div>
 
 ---
 
-### ✧ What I Do
+### What I Do
 
-I develop end-to-end custom software solutions for businesses—translating business requirements into structured architecture, reliable deployments, and continuous technical support.
+I build end-to-end software solutions for businesses, handling projects from requirements gathering to architecture, deployment, and ongoing support.
 
-* **Enterprise ERP & Modules:** Engineering customized business apps on the **Frappe framework (v15)** with Python, streamlining billing pipelines, employee management, and **Priority ERP** integrations.
-* **Full-Stack Web Development:** Crafting responsive frontends in **TypeScript & React**, paired with performant backend services in **Node.js** and **PostgreSQL**.
-* **Containerization & CI/CD:** Building clean, reproducible environments using **Docker** and maintainable deployment workflows.
+* **Custom ERP & Enterprise Workflows:** Developing modular business apps with **Python** on the **Frappe framework (v15)**, covering billing systems, project tracking, employee management, and **Priority ERP** integrations.
+* **Full-Stack Applications:** Engineering client portals and responsive frontends with **TypeScript** and **React**, backed by robust **Node.js** and **PostgreSQL** services.
+* **DevOps & Delivery:** Containerizing environments with **Docker** and establishing reproducible deployment setups.
 
 ---
 
-### ✧ Core Stack
+### Core Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,tailwind,nodejs,express,postgres,docker,git,linux,html,css&theme=dark" alt="Tech Stack Icons" />
@@ -48,14 +35,14 @@ I develop end-to-end custom software solutions for businesses—translating busi
 
 ---
 
-### ✧ Creative Pursuits & Life
+### Outside the Terminal
 
-<img align="right" src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="120" alt="Cute sticker" />
+<img align="right" src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="125" alt="Pixel sticker" />
 
 * 🎮 **Gaming:** Cozy sandbox adventures and team shooters
-* 🧵 **Crafts & Design:** Hand embroidery, plush restoration, and 3D modeling
+* 🧵 **Crafts & Making:** Hand embroidery, plush restoration, and 3D printing
 * 🐶 **Dog Mom:** Spending quality time with my dog, Niki
-* 🍙 **Culinary & Anime:** Experimenting with new recipes and watching series
+* 🍙 **Cooking & Anime:** Trying new recipes and catching up on favorite series
 
 <br clear="both"/>
 
@@ -63,12 +50,12 @@ I develop end-to-end custom software solutions for businesses—translating busi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaya-vishna&show_icons=true&theme=radical&title_color=E8D5C4&icon_color=E8D5C4&text_color=D1D5DB&bg_color=0D1117&border_color=30363D" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=gaya-vishna&show_icons=true&theme=radical&title_color=68BBE3&icon_color=F3A6B2&text_color=E0E0E0&bg_color=0D1117&border_color=30363D" height="150" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaya-vishna&layout=compact&theme=radical&title_color=E8D5C4&text_color=D1D5DB&bg_color=0D1117&border_color=30363D" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaya-vishna&layout=compact&theme=radical&title_color=68BBE3&text_color=E0E0E0&bg_color=0D1117&border_color=30363D" height="150" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaya-vishna&theme=radical&background=0D1117&border=30363D&stroke=E8D5C4&ring=E8D5C4&fire=E8D5C4&currStreakNum=E8D5C4&sideNums=D1D5DB&sideLabels=9BA4B5&dates=888888" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaya-vishna&theme=radical&background=0D1117&border=30363D&stroke=68BBE3&ring=F3A6B2&fire=FFAC81&currStreakNum=68BBE3&sideNums=E0E0E0&sideLabels=E0E0E0&dates=888888" alt="GitHub Streak" />
 
 </div>
