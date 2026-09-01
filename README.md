@@ -28,10 +28,9 @@ I build tailored software solutions for businesses, taking features from initial
 
 ### Core Stack
 
-* **Languages:** TypeScript, JavaScript, Python, SQL
-* **Frontend:** React, Tailwind CSS, HTML5, CSS3
-* **Backend:** Node.js, Express, Frappe Framework, REST APIs
-* **Database & Tools:** PostgreSQL, Docker, Git, Linux
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,tailwind,nodejs,express,postgres,docker,git,linux,html,css&theme=dark" alt="Tech Stack Icons" />
+</p>
 
 ---
 
