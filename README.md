@@ -41,7 +41,7 @@ I build tailored software solutions for businesses, taking features from initial
 * 🍙 **Cooking & Anime:** Exploring tasty new recipes and watching series
 
 <br clear="both"/>
----
+
 
 <div align="center">
 
